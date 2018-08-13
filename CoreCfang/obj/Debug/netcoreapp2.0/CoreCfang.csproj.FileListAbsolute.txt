@@ -1,0 +1,11 @@
+D:\CoreCfang\CoreCfang\bin\Debug\netcoreapp2.0\CoreCfang.deps.json
+D:\CoreCfang\CoreCfang\bin\Debug\netcoreapp2.0\CoreCfang.runtimeconfig.json
+D:\CoreCfang\CoreCfang\bin\Debug\netcoreapp2.0\CoreCfang.runtimeconfig.dev.json
+D:\CoreCfang\CoreCfang\bin\Debug\netcoreapp2.0\CoreCfang.dll
+D:\CoreCfang\CoreCfang\bin\Debug\netcoreapp2.0\CoreCfang.pdb
+D:\CoreCfang\CoreCfang\obj\Debug\netcoreapp2.0\CoreCfang.csprojResolveAssemblyReference.cache
+D:\CoreCfang\CoreCfang\obj\Debug\netcoreapp2.0\CoreCfang.csproj.CoreCompileInputs.cache
+D:\CoreCfang\CoreCfang\obj\Debug\netcoreapp2.0\CoreCfang.AssemblyInfoInputs.cache
+D:\CoreCfang\CoreCfang\obj\Debug\netcoreapp2.0\CoreCfang.AssemblyInfo.cs
+D:\CoreCfang\CoreCfang\obj\Debug\netcoreapp2.0\CoreCfang.dll
+D:\CoreCfang\CoreCfang\obj\Debug\netcoreapp2.0\CoreCfang.pdb
